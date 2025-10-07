@@ -97,6 +97,7 @@ ResumToJob：https://resumetojob.ltlyl.fun/resume-builder 在线简历生成
 在线图片去水印：https://dewatermark.ai/zh-CN
 Ai对话转Word：https://www.yayacool.com/md2doc
 Lemon live：https://lemonlive.pages.dev/ 多平台在线直播观看
+Notion-faster：https://www.notionfaster.org/ Notion加速访问
 
 MagicMirror：https://github.com/idootop/MagicMirror 本地模型图片换脸
 极简Gif：https://gif123.aardio.com/ Gif录屏
