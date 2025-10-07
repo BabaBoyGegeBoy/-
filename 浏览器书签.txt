@@ -21,6 +21,7 @@ mefcl：https://www.mefcl.com/ 夸克、迅雷、百度、123、蓝奏云、天�
 MrK个人小站：https://www.ksite.cn/ 百度、123
 WinApps：https://www.winapps.cc/ 开源PC软件
 OSSSR：https://www.osssr.com/ 夸克、蓝奏云、123、城通
+老趣网：https://laoquzhe.com/ 夸克
 
 
 破解游戏下载
@@ -48,9 +49,11 @@ AGE动漫：https://www.agedm.io/ 在线（.io或者.org）
 高清族：https://www.hdzu.com/ 磁力
 rarbt：https://www.rarbt.fun/ 在线、磁力
 
+
 在线工具合集
 七七工具：https://www.tool77.com/
 贝贝工具站：https://xbeibeix.com/
+
 
 网址导航
 风向标导航：https://duo.hz.cz/
@@ -78,7 +81,6 @@ ResumToJob：https://resumetojob.ltlyl.fun/resume-builder 在线简历生成
 Ai对话转Word：https://www.yayacool.com/md2doc
 Lemon live：https://lemonlive.pages.dev/ 多平台在线直播观看
 
-
 MagicMirror：https://github.com/idootop/MagicMirror 本地模型图片换脸
 极简Gif：https://gif123.aardio.com/ Gif录屏
 Gopeed：https://gopeed.com/zh-CN 高速下载器
@@ -86,6 +88,7 @@ Gopeed：https://gopeed.com/zh-CN 高速下载器
 ImTip：https://imtip.aardio.com/ 智能桌面助手
 宇正群邮：https://github.com/uyoufu/UZonMail 邮件群发
 EasySpider：https://github.com/NaiboWang/EasySpider 可视化爬虫
+
 
 跨设备传输
 云便签：https://webnote.cc/
@@ -123,6 +126,11 @@ AIchatOS2：https://chat18.aichatosai.com/
 Stability AI：https://platform.stability.ai/sandbox/text-to-image Ai作图
 Globe Explorer：https://explorer.globe.engineer/ AI搜索引擎
 
+
+磁力搜索：https://laoquzhe.com/3235.html（汇总）
+https://qxxjcbex.8800501.xyz/
+https://xiongmaogb.top/
+https://cilimao.de/
 
 
 
