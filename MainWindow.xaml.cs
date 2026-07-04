@@ -1,7 +1,7 @@
 using System;
 using System.Windows;
 
-namespace 对比视频播放器
+namespace ComparisonVideoPlayer
 {
     public partial class MainWindow : Window
     {

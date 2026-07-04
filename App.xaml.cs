@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace 对比视频播放器
+namespace ComparisonVideoPlayer
 {
     /// <summary>
     /// Interaction logic for App.xaml

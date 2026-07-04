@@ -1,11 +1,11 @@
-<Window x:Class="对比视频播放器.MainWindow"
+<Window x:Class="ComparisonVideoPlayer.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:对比视频播放器"
+        xmlns:local="clr-namespace:ComparisonVideoPlayer"
         mc:Ignorable="d"
-        Title="对比视频播放器" Height="720" Width="1280"
+        Title="Comparison Video Player" Height="720" Width="1280"
         Closed="Window_Closed"
         WindowStyle="None" AllowsTransparency="True">
     
@@ -20,7 +20,7 @@
                 MouseLeftButtonDown="TitleBar_MouseLeftButtonDown"
                 BorderBrush="#333333" BorderThickness="0 0 0 1">
             <Grid>
-                <TextBlock Text="对比视频播放器" Foreground="#AAAAAA" FontSize="12" 
+                <TextBlock Text="Comparison Video Player" Foreground="#AAAAAA" FontSize="12" 
                            VerticalAlignment="Center" Margin="15 0" />
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
                     <Button Width="32" Height="32" Click="MinimizeButton_Click" 

@@ -3,7 +3,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Threading;
 
-namespace 对比视频播放器
+namespace ComparisonVideoPlayer
 {
     public partial class VideoPlayerControl : UserControl
     {
