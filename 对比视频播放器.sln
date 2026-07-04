@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "对比视频播放器", "对比视频播放器.csproj", "{08695A20-D266-4F52-AC7A-17B593E51CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08695A20-D266-4F52-AC7A-17B593E51CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08695A20-D266-4F52-AC7A-17B593E51CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08695A20-D266-4F52-AC7A-17B593E51CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08695A20-D266-4F52-AC7A-17B593E51CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E26FE9-4F8A-47DE-83F9-898CDC4327B3}
+	EndGlobalSection
+EndGlobal
