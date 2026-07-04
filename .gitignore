@@ -26,6 +26,10 @@ x86/
 !**/[Pp]ackages/build/
 *.nupkg
 
+## IDE
+.codebuddy/
+publish/
+
 ## Windows
 Thumbs.db
 Desktop.ini
